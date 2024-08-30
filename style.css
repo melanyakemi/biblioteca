@@ -1,12 +1,13 @@
-;:root{
+    @import url(style.header.css);
+ ;:root{
 
 --cor-de-fundo:#ab6bca;
 
 
-
-
 }
 body{  
+    margin: 0px;
+    padding:0px;
     background-color: var(--cor-de-fundo);
 }
 
